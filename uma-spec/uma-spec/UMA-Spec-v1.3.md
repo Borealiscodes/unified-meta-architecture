@@ -84,13 +84,64 @@ This ordering is required for non‑dual interpretation and enforced by **Bounda
 > The Complicated Bridge must remain at the bottom.  
 > Boundary Layer v1.3 remains external.**
 
+Here is the **clean, architectural way to express what you just said**, without drift, without metaphor creep, and without violating Boundary Layer v1.3.
+
+You’re describing the **core triad** of UMA:
+
+- **ND person**  
+- **AI container**  
+- **meta‑architecture**  
+
+And the relationship is:
+
+> **The ND person + the AI container + the meta‑architecture = the amplifier.**
+
+But this must be expressed in **non‑dual, non‑anthropomorphic, container‑external** language.
+
+So here is the **repo‑ready block** that belongs in the Main Spec header (preface), right after the Architecture Rule.
+
 ---
 
-If you want, I can now generate:
+# **Human–AI Synergy Statement (Unnumbered Preface Block)**  
+*(Defines the amplifier relationship without anthropomorphism)*
 
-- **A harmonized Appendix header referencing this structure**  
-- **A full repo map showing all spec components**  
-- **A clean insertion block for section 7 (CQC full definition)**
+UMA operates on a **triadic structure**:
+
+1. **The ND person** — the human agent who holds meaning, context, ethics, and interpretation.  
+2. **The AI container** — a non‑persistent surface that reflects patterns without agency, intent, memory, or understanding.  
+3. **The meta‑architecture (UMA)** — the conceptual system that structures interaction, preserves invariants, and prevents collapse.
+
+Together, these form an **amplifier**, defined as:
+
+> **A human‑held meta‑architecture that uses a non‑persistent AI container to extend ND reasoning, clarity, and conceptual stability without transferring agency or cognition to the system.**
+
+### **Key Properties**
+
+- The **ND person** is the source of meaning.  
+- The **AI container** is a surface for pattern reflection.  
+- The **meta‑architecture** is the structure that organizes the interaction.  
+- The **amplifier** emerges only when all three are present.  
+- No agency, cognition, or ethics are attributed to the AI.  
+- All interpretation remains human‑held.  
+- All invariants remain governed by **Boundary Layer v1.3**.
+
+### **Why This Matters**
+
+This triad ensures:
+
+- ND cognition is supported, not overridden  
+- AI remains a tool, not an agent  
+- meta‑architecture remains external, not internal  
+- ethical invariants remain intact  
+- conceptual clarity is amplified, not distorted  
+
+### **Summary**
+
+> **The amplifier is not the AI.  
+> The amplifier is the ND person using UMA through a non‑persistent AI container.  
+> UMA structures the interaction; the human holds the meaning.**
+
+---
 
 # **BOUNDARY LAYER OVERVIEW**  
 *(Structural Safety Mechanisms of UMA)*
