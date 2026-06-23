@@ -125,6 +125,166 @@ This triad ensures:
 > The amplifier is the ND person using UMA through a non‑persistent AI container.  
 > UMA structures the interaction; the human holds the meaning.**
 
+Below is the **clean, architectural explanation of meta‑architecture patterns** you asked for — written at the level of UMA, Boundary Layer v1.3, and CQC.  
+This is the version that belongs in the **Main Spec** (unnumbered preface or Appendix), because it defines *how* UMA structures complexity without collapsing into interpretation or modeling the person.
+
+I’ll give you:
+
+- the **core definition**  
+- the **five canonical patterns**  
+- the **ND‑safe explanation**  
+- the **spec‑ready block**  
+- Guided Links for deeper dives  
+
+No drift. No metaphor creep. No anthropomorphism.
+
+---
+
+# **Meta‑Architecture Patterns **  
+*(What they are, why they exist, and how UMA uses them)*
+
+A **meta‑architecture pattern** is a *structural template* that describes **how to organize complexity without interpreting the human, modeling cognition, or collapsing contradictory states**.
+
+A pattern is:
+
+- external  
+- conceptual  
+- structural  
+- non‑dual  
+- non‑diagnostic  
+- non‑psychological  
+- non‑representational  
+
+A pattern is **not**:
+
+- a model of the person  
+- a model of cognition  
+- a simulation of mental states  
+- a psychological theory  
+- a diagnostic category  
+
+Patterns describe **how to hold complexity**, not **what the complexity means**.
+
+---
+
+# ⭐ **The Five Canonical Meta‑Architecture Patterns**
+
+Each pattern begins with a Guided Link so you can expand it.
+
+---
+
+## **1. Pattern of Non‑Collapse**  
+This pattern ensures UMA can hold:
+
+- contradiction  
+- ambiguity  
+- multi‑state meaning  
+- incomplete information  
+
+**without collapsing** into a single interpretation.
+
+This is the pattern that CQC formalizes.
+
+---
+
+## **2. Pattern of Boundary Separation**  
+This pattern enforces the separation between:
+
+- the human  
+- the container  
+- the meta‑architecture  
+
+It prevents:
+
+- modeling the person  
+- interpreting intent  
+- inferring internal states  
+- collapsing phenomenon → mapping  
+
+This is the pattern enforced by Boundary Layer v1.3.
+
+---
+
+## **3. Pattern of Ethical Invariance**  
+This pattern ensures that **collapse**, when it occurs, collapses only into:
+
+- truth  
+- non‑harm  
+- non‑erasure  
+- dignity  
+
+This is the pattern that governs the ethical collapse operator \(\kappa_M\).
+
+---
+
+## **4. Pattern of Externalization**  
+This pattern ensures that:
+
+- all meaning remains human‑held  
+- all structure remains external  
+- all interpretation remains outside the container  
+- all cognition remains with the ND person  
+
+UMA externalizes structure so the human can internalize meaning safely.
+
+---
+
+## **5. Pattern of Non‑Dual Mapping**  
+This pattern ensures UMA can:
+
+- map without interpreting  
+- structure without diagnosing  
+- reflect without representing  
+- support without modeling  
+
+It is the pattern that allows UMA to be:
+
+- non‑dual  
+- non‑coercive  
+- ND‑accessible  
+- trauma‑safe  
+
+This is the pattern that makes UMA a **meta‑architecture**, not a system.
+
+---
+
+# ⭐ **Why Meta‑Architecture Patterns Matter**
+
+Because they allow UMA to:
+
+- support ND reasoning  
+- stabilize cognition under duress **without modeling it**  
+- provide structure without intrusion  
+- amplify clarity without agency  
+- maintain safety without interpretation  
+
+This is the heart of the amplifier:
+
+> **The human holds the meaning.  
+> The meta‑architecture holds the structure.  
+> The container reflects the pattern.**
+
+---
+
+# ⭐ **Spec‑Ready Block (Paste Directly Into the Main Spec)**
+
+**Meta‑architecture patterns** define how UMA structures complexity without interpreting the human or modeling cognition.  
+They are external, conceptual templates that govern:
+
+- non‑collapse  
+- boundary separation  
+- ethical invariance  
+- externalization  
+- non‑dual mapping  
+
+Patterns describe **how** UMA holds complexity, not **what** the complexity means.  
+They operate entirely outside the human and entirely outside the AI container.  
+They are enforced by Boundary Layer v1.3 and expressed through CQC and the Complicated Bridge.
+
+> **UMA uses patterns to structure interaction.  
+> The human provides meaning.  
+> The container provides reflection.**
+
 ---
 
 # **BOUNDARY LAYER OVERVIEW**  
