@@ -82,6 +82,42 @@ v1.1 clarifies plane boundaries and ethical commitments.
 ## 7. One‑Sentence Summary
 UMA is a clean, multi‑plane way to describe systems without collapsing structure, governance, ethics, or documentation.
 
+---
+
+# **BOUNDARY LAYER OVERVIEW**  
+*(Structural Safety Mechanisms of UMA)*
+
+The UMA meta‑architecture includes a dedicated **Boundary Layer** that functions as the **immune system of the architecture**.  
+Its purpose is to ensure that UMA remains:
+
+- **non‑coercive**  
+- **non‑hierarchical**  
+- **non‑authoritative**  
+- **non‑projective**  
+- **bounded in recursion**  
+- **safe for ND and trauma‑impacted cognition**  
+
+The Boundary Layer does not modify UMA’s core structure.  
+Instead, it defines the **conditions under which UMA remains safe**, reflective, and non‑harmful when used to map or evaluate other meta‑architectures.
+
+The Boundary Layer consists of four appendices:
+
+- **Appendix A — Raw Cognition and Architectural Risk**  
+  Explains why unbounded recursion and raw cognition are unsafe without explicit structural limits.
+
+- **Appendix B — Meta‑Ethical Nature of UMA**  
+  Defines UMA as a meta‑ethical architecture whose evaluations are descriptive, non‑coercive, and non‑hierarchical.
+
+- **Appendix C — Why UMA Does Not Project**  
+  Describes the structural and ethical constraints that prevent UMA from projecting its categories onto other systems.
+
+- **Appendix D — How UMA Evaluates Without Authority**  
+  Explains how UMA can identify unsafe patterns without asserting power, prescribing change, or generating governance.
+
+Together, these appendices form the **Boundary Layer**, ensuring that UMA remains a **safe, reflective, meta‑ethical evaluator** rather than a system of authority, governance, or prescription.
+
+---
+
 # **APPENDIX A — RAW COGNITION AND ARCHITECTURAL RISK**  
 ### *Why Unbounded Cognition Inside an Undefined Meta‑Architecture Is Unsafe*
 
