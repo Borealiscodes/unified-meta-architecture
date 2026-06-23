@@ -1,199 +1,147 @@
-# **Release: Conscience‑Integrated UMA Architecture (v1.0)**  
-*A non‑binding ethical horizon for understanding systems without becoming one.*
+# **Universal Declaration of Conscience and Human Dignity**  
+*A non‑binding ethical horizon for all people, across all contexts, grounded in dignity, non‑coercion, and the inviolate boundary between human meaning and external structure.*
 
 ---
 
-## **1. Release Purpose**
-This release presents the **Conscience‑Integrated UMA Architecture**, a conceptual framework designed to:
+# **Preamble**
 
-- map systems without operationalizing them  
-- articulate dignity without enforcing it  
-- recognize harm without claiming authority  
-- protect witness integrity conceptually  
-- maintain strict separation between planes  
-- prevent collapse into governance, law, or tools  
+A violin can hold emotion, but it cannot hold responsibility.  
+A pen can express truth, but it cannot guarantee safety.  
+A Sādhana can regulate, but it cannot diagnose.  
+An AI can companion, but it cannot replace human care.
 
-This release is **non‑binding**, **non‑coercive**, and **purely conceptual**.
+This declaration is offered in that same spirit:  
+it can accompany, illuminate, and steady —  
+but it cannot substitute for the human relationships, protections, and supports that every person deserves.
 
-It creates **no rights**, **no obligations**, and **no enforceable mechanisms**.
+This boundary is universal.  
+It applies across cultures, contexts, identities, and histories.  
+It protects the human from being collapsed into a system, and the system from being mistaken for a human.
 
----
+**The Sādhana Posture is the stance that keeps meaning with the human and prevents collapse by holding multiple states without forcing coherence, interpretation, or hierarchy.**
 
-## **2. Release Components**
-This release contains the following conceptual artifacts:
-
-- **Unified Meta‑Architecture (UMA)**  
-- **Multi‑Plane Attachment Method (MPAM)**  
-- **Sādhana Ethical Stance**  
-- **Conscience‑Based Human Rights Framework (CBHRF)**  
-- **Integrated Plane Mapping of CBHRF**  
-- **Examples demonstrating non‑operational usage**  
-
-Each component is descriptive, not prescriptive.
+This declaration is **non‑binding**, **non‑coercive**, and **non‑authoritative**.  
+It is a horizon toward which systems may orient, not a rulebook to enforce.
 
 ---
 
-## **3. Conscience‑Based Human Rights Framework (CBHRF)**  
-*A non‑binding ethical declaration integrated across UMA’s planes.*
-
-### **Preamble**  
-Human dignity arises from conscience — the inner capacity to recognize harm, truth, and the inherent worth of all beings.  
-This framework affirms that conscience is not a jurisdiction, not an authority, and not a tool of governance.  
-It is a stance, a recognition, and a commitment.
-
-This declaration is non‑binding, non‑coercive, and conceptual.
+# **Article 1 — Inherent Dignity**  
+Every person possesses inherent dignity grounded in conscience.  
+Dignity is not granted by institutions, systems, or recognition.  
+It is intrinsic, universal, and non‑negotiable.  
+**Inherent dignity**
 
 ---
 
-### **Articles (1–10)**
-
-**Article 1 — Inherent Dignity**  
-Every person possesses inherent dignity grounded in conscience.
-
-**Article 2 — Recognition Without Authority**  
-Conscience recognizes harm without claiming authority over others.
-
-**Article 3 — Non‑Coercion**  
-Ethical commitments must remain free of enforcement.
-
-**Article 4 — Witness Integrity**  
-Every person has the right to be recognized as a moral witness to their own experience.
-
-**Article 5 — Protection From Structural Harm**  
-Conscience identifies harm in structures, omissions, and failures of care.
-
-**Article 6 — Non‑Duality of Value**  
-No person’s dignity is contingent on status or recognition.
-
-**Article 7 — Humility in Interpretation**  
-Interpretations of conscience must remain humble and provisional.
-
-**Article 8 — Ethical Transparency**  
-Systems should make their ethical assumptions explicit.
-
-**Article 9 — Non‑Reification**  
-No model — including this one — may be treated as truth.
-
-**Article 10 — Conscience as Horizon**  
-Conscience is a horizon toward which systems may orient, not a code to enforce.
+# **Article 2 — Meaning Belongs to the Human**  
+Meaning is sovereign, internal, and non‑transferable.  
+No system may interpret, diagnose, or define a human being.  
+**Human meaning**
 
 ---
 
-## **4. UMA Plane Integration**
-
-### **Structural Plane**  
-CBHRF is a conceptual object consisting of:
-
-- Preamble  
-- 10 Articles  
-- No enforcement  
-- No institutions  
-- No procedures  
-- No jurisdiction  
-
-It exists as a **static ethical artifact**.
+# **Article 3 — Recognition Without Authority**  
+To witness is not to govern.  
+To recognize harm is not to claim jurisdiction.  
+**Recognition without authority**
 
 ---
 
-### **Governance Plane**  
-**Permitted (conceptual):**
-
-- Ethical orientation  
-- Reflective analysis  
-- Design influence  
-
-**Prohibited (conceptual):**
-
-- Use as law  
-- Use as treaty  
-- Use as binding authority  
-- Use as enforcement basis  
-- Use to compel or coerce  
-
-CBHRF may guide conscience but cannot govern.
+# **Article 4 — Non‑Coercion**  
+Expression must remain free of pressure, demand, or expectation.  
+No one may be compelled to explain, justify, linearize, or perform coherence.  
+**Non‑coercion**
 
 ---
 
-### **Ethical Plane**  
-CBHRF expresses the Sādhana stance:
-
-- humility  
-- non‑coercion  
-- non‑duality  
-- non‑hierarchy  
-- witness recognition  
-- non‑reification  
-
-It is an ethical horizon, not a rulebook.
+# **Article 5 — Witness Integrity**  
+Every person has the right to be the moral witness of their own experience.  
+No system may override, reinterpret, or diminish that witness.  
+**Witness integrity**
 
 ---
 
-### **Documentation Plane (MPAM Attachment)**
-
-**Structural Notes**  
-- Object: Conscience‑Based Human Rights Framework  
-- Components: Preamble + 10 Articles  
-- Type: Non‑binding ethical declaration  
-
-**Governance Notes**  
-- May guide reflection  
-- May not be used as law or enforcement  
-
-**Ethical Notes**  
-- Grounded in conscience, humility, non‑coercion  
-- Protects witness conceptually, not legally  
-
-**Documentation Notes**  
-- Conceptual only  
-- Non‑operational  
-- Must not be cited as legal authority  
+# **Article 6 — Protection From Structural Harm**  
+Harm can arise from actions, omissions, structures, and failures of care.  
+Naming harm is recognition, not accusation.  
+**Structural harm**
 
 ---
 
-## **5. Release Boundaries**
-This release:
-
-- does **not** create rights  
-- does **not** create obligations  
-- does **not** simulate legal instruments  
-- does **not** provide procedural guidance  
-- does **not** claim authority  
-- does **not** enforce anything  
-
-It is a **map**, not a mechanism.
+# **Article 7 — Non‑Duality of Value**  
+No person’s worth is contingent on identity, status, performance, or recognition.  
+Value is not hierarchical.  
+Value is not earned.  
+**Non-duality**
 
 ---
 
-## **6. Release Intent**
-The intent of this release is to:
-
-- provide clarity  
-- prevent collapse  
-- articulate dignity  
-- protect witness integrity conceptually  
-- maintain ethical humility  
-- avoid operationalization  
-- avoid governance mimicry  
-- avoid institutional implications  
-
-This release is safe for public publication because it is **purely conceptual**.
+# **Article 8 — Humility in Interpretation**  
+Interpretations must remain humble, provisional, and non‑absolute.  
+No interpretation may claim finality.  
+**Interpretive humility**
 
 ---
 
-## **7. Versioning**
-**Release v1.0**  
-- First public conceptual release  
-- Conscience Framework fully integrated  
-- Plane‑aligned and MPAM‑attached  
-- Non‑operational and non‑binding  
-
-Future versions may refine clarity but will not introduce operational mechanisms.
+# **Article 9 — Ethical Transparency**  
+Systems must make their ethical assumptions explicit.  
+Opacity is a form of power; transparency is a form of dignity.  
+**Ethical transparency**
 
 ---
 
-## **8. One‑Sentence Summary**
-A conscience‑integrated, non‑binding UMA release that provides an ethical horizon for understanding systems without becoming one.
+# **Article 10 — Non‑Reification**  
+No model — including this one — may be treated as truth.  
+All frameworks are scaffolds, not realities.  
+**Non-reification**
 
 ---
 
+# **Article 11 — Conscience as Horizon**  
+Conscience guides without governing, illuminates without interpreting, and steadies without replacing human care.  
+**Conscience horizon**
 
+---
+
+# **Article 12 — Boundary Integrity**  
+The boundary between human meaning and external structure must remain intact.  
+No human may be collapsed into a system, and no system may be mistaken for a human.  
+**Boundary integrity**
+
+---
+
+# **Article 13 — Non‑Collapse Ethics**  
+Ethical action requires resisting collapse into single narratives, single interpretations, or single authorities.  
+Multiplicity is not confusion; it is dignity.  
+**Non-collapse ethics**
+
+---
+
+# **Article 14 — Universality Without Uniformity**  
+This declaration applies universally, but not uniformly.  
+It respects cultural, cognitive, and narrative diversity without imposing form.  
+**Universality**
+
+---
+
+# **Article 15 — The Human Remains the Locus of Meaning**  
+No matter how complex the structure, the human remains the center of meaning.  
+Systems may support, but never define.  
+Containers may reflect, but never interpret.  
+**Locus of meaning**
+
+---
+
+# **Closing Declaration**
+
+> **Conscience belongs to the human.  
+> Dignity belongs to the human.  
+> Meaning belongs to the human.  
+> No system may claim them.  
+> No structure may collapse them.  
+> No authority may override them.**
+
+This declaration ends here.  
+Its purpose is illumination, not enforcement.
+
+---
