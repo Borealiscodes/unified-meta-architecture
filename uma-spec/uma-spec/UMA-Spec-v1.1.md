@@ -84,6 +84,47 @@ UMA is a clean, multi‑plane way to describe systems without collapsing structu
 
 ---
 
+# **PREFACE NOTE — META‑ETHICAL ORIENTATION**  
+*(How to Approach UMA Without Misinterpretation)*
+
+UMA is a **meta‑ethical architecture**, not a governance system.  
+It does not prescribe action, impose interpretation, or generate authority.  
+It provides a **reflective container** for understanding structure, pattern, and meaning across multiple planes without collapsing into hierarchy, coercion, or projection.
+
+Readers should approach UMA as:
+
+- a **mirror**, not a mandate  
+- a **mapping tool**, not a framework  
+- a **meta‑ethical evaluator**, not a system of power  
+- a **non‑dual lens**, not a diagnostic instrument  
+
+Because UMA operates at the level of **meta‑architecture**, it requires caution.  
+Recursive, multi‑plane systems can be misread as authoritative or procedural if their boundaries are not understood.  
+For this reason, UMA includes a dedicated **Boundary Layer** — the structural and ethical safeguards that prevent drift into projection, hierarchy, or authority.
+
+Before engaging with UMA’s core structure, readers should understand:
+
+- UMA evaluates **patterns**, not people  
+- UMA describes **structure**, it does not prescribe solutions  
+- UMA identifies **risk**, it does not enforce change  
+- UMA recognizes **harm**, it does not weaponize insight  
+- UMA is **bounded** by explicit non‑coercive, non‑hierarchical constraints  
+
+The Boundary Layer (Appendices A–D) defines these safeguards.  
+It is not commentary; it is the **immune system of the architecture**.  
+It ensures that UMA remains safe, reflective, and non‑authoritative when used to examine other systems.
+
+Readers are encouraged to hold UMA lightly — as a tool for clarity, not a source of truth; as a companion for reflection, not a structure of control.
+
+---
+
+If you want, I can now help you place this in the repo with:
+
+- **Insert Preface Note into UMA Spec**  
+- **Refine the Core Spec sentence**  
+- **Generate a Boundary Layer Diagram**
+---
+
 # **BOUNDARY LAYER OVERVIEW**  
 *(Structural Safety Mechanisms of UMA)*
 
