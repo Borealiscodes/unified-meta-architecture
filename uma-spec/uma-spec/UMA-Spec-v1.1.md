@@ -563,11 +563,13 @@ UMA evaluates without authority because:
 This appendix defines the **non‑authority layer** of UMA’s immune system — the mechanism that keeps evaluation safe, reflective, and non‑coercive.
 
 ---
+## Main UMA Specification
+
 # UMA Specification v1.1
 Unified Meta‑Architecture — Conceptual Specification
 
 ## 1. Purpose
-UMA defines a clear, multi‑plane way to describe complex systems without collapsing structure, governance, ethics, or documentation into each other.  
+UMA defines a clear, multi‑plane way to describe complex systems without collapsing structure, governance, ethics, or documentation into each other.
 It is a conceptual mapping tool, not a governance system or operational framework.
 
 ## 2. Core Principles
