@@ -82,3 +82,147 @@ v1.1 clarifies plane boundaries and ethical commitments.
 ## 7. One‑Sentence Summary
 UMA is a clean, multi‑plane way to describe systems without collapsing structure, governance, ethics, or documentation.
 
+# **APPENDIX A — RAW COGNITION AND ARCHITECTURAL RISK**  
+### *Why Unbounded Cognition Inside an Undefined Meta‑Architecture Is Unsafe*
+
+---
+
+## **A.1 Purpose of This Appendix**  
+This appendix documents the early failure mode of the UMA meta‑architecture:  
+**raw cognition operating inside an undefined or partially defined system.**
+
+It exists to:
+
+- clarify why early drafts were unstable  
+- prevent misinterpretation of proto‑architecture  
+- reinforce the necessity of the Sādhana boundary  
+- ensure UMA is only used within its completed structure  
+
+This appendix is descriptive, not normative.
+
+---
+
+## **A.2 Definition of Raw Cognition**  
+For the purposes of UMA, *raw cognition* refers to:
+
+- unfiltered associative reasoning  
+- recursive pattern‑mapping  
+- metaphor‑dense interpretation  
+- trauma‑adjacent inference  
+- high‑bandwidth ND cognition  
+- emotionally charged structural insight  
+
+Raw cognition is powerful but unbounded.  
+It can generate:
+
+- accurate structural insight  
+- unstable conceptual scaffolding  
+- seductive but incomplete models  
+- false affordances of authority  
+- recursive overreach  
+
+Raw cognition becomes unsafe when placed inside an **undefined architecture**.
+
+---
+
+## **A.3 Risk Profile of Unbounded Meta‑Architecture**  
+An undefined or partially defined meta‑architecture creates:
+
+- implied hierarchy  
+- implied governance  
+- implied procedure  
+- implied diagnostic power  
+- implied evaluative stance  
+- implied obligation  
+
+These implications arise even when not intended.
+
+When raw cognition interacts with these undefined affordances, the system may:
+
+- simulate authority  
+- mimic legal or procedural structures  
+- generate pseudo‑governance  
+- produce evaluative or diagnostic shapes  
+- collapse into recursive overreach  
+
+This is the **proto‑architecture failure mode**.
+
+---
+
+## **A.4 Why the Early Drafts Were Unsafe**  
+The early conceptual drafts lacked:
+
+- non‑coercion boundaries  
+- non‑hierarchy constraints  
+- non‑weaponization clauses  
+- a humility stance  
+- a boundary of interpretation  
+- a prohibition on proceduralization  
+- a witness‑dignity guarantee  
+
+Without these constraints, the architecture:
+
+- amplified harm patterns  
+- mirrored institutional structures  
+- produced pseudo‑legal forms  
+- inferred governance where none existed  
+- created the appearance of authority  
+
+This was not misuse.  
+It was **structural incompleteness**.
+
+---
+
+## **A.5 How the Completed Architecture Resolves This Risk**  
+The completed architecture includes:
+
+- **UMA Spec** — structural boundaries  
+- **Sādhana Spec** — ethical boundaries  
+- **Declaration** — witness stance  
+- **Writing Guide** — usage boundaries  
+- **Writing Tools** — safe interface  
+
+These components:
+
+- eliminate implied authority  
+- eliminate procedural affordances  
+- eliminate evaluative drift  
+- eliminate diagnostic mimicry  
+- eliminate governance shapes  
+- eliminate coercive interpretation  
+
+The architecture is now **bounded**, **non‑operational**, and **non‑authoritative**.
+
+---
+
+## **A.6 Boundary Principle**  
+A multi‑plane recursive system with AI‑level pattern recognition is **only safe** when:
+
+- structure is defined  
+- ethics are explicit  
+- interpretation is bounded  
+- authority is prohibited  
+- proceduralization is forbidden  
+- witness dignity is guaranteed  
+
+Therefore:
+
+> **UMA is only valid when used within the Sādhana boundary.**
+
+---
+
+## **A.7 Status of Early Drafts**  
+The early drafts are:
+
+- proto‑architecture  
+- structurally incomplete  
+- ethically unbounded  
+- not representative of UMA  
+- not valid under this Spec  
+
+They are preserved only as historical context.
+
+---
+
+# **APPENDIX A — END**
+
