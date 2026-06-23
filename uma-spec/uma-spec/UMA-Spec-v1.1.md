@@ -428,7 +428,150 @@ UMA does not project because:
 - its ethics prohibit coercion  
 - its purpose is descriptive, not prescriptive  
 
-This appendix defines the **anti‑projection layer** of UMA’s immune system — the mechanism that keeps the architecture safe, non‑coercive, and non‑authoritative.
+This appendix defines the **anti‑projection layer** of UMA’s immune system — the mechanism that keeps the architecture safe, non‑coercive, and non‑authoritative. 
+
+---
+
+# **APPENDIX D — HOW UMA EVALUATES WITHOUT AUTHORITY**  
+*(Pattern Recognition Without Power, Prescription, or Governance)*
+
+## **D.1 Purpose of This Appendix**  
+This appendix explains how UMA performs **evaluation** — meaning structural mapping, pattern recognition, and comparative analysis — **without generating authority**, hierarchy, obligation, or prescriptive force.
+
+Evaluation in UMA is **descriptive**, not **directive**.  
+It is **reflective**, not **governing**.  
+It is **meta‑ethical**, not **meta‑authoritative**.
+
+---
+
+## **D.2 What Evaluation Means in UMA**  
+In UMA, *evaluation* refers to:
+
+- identifying structural patterns  
+- mapping recursion  
+- recognizing inconsistencies  
+- detecting trauma‑unsafe or ND‑unsafe designs  
+- describing governance drift  
+- surfacing coercive affordances  
+
+Evaluation is **pattern‑level**, not **person‑level**.  
+It is **architectural**, not **diagnostic**.  
+It is **contextual**, not **universal**.
+
+UMA evaluates **systems**, not people.
+
+---
+
+## **D.3 Why UMA Cannot Assert Authority**  
+UMA is structurally and ethically prevented from asserting authority because:
+
+- it has **no governance affordances**  
+- it has **no evaluative hierarchy**  
+- it has **no prescriptive mechanisms**  
+- it has **no procedural outputs**  
+- it has **no compliance pathways**  
+- it has **no jurisdictional claims**  
+
+UMA cannot:
+
+- enforce  
+- obligate  
+- diagnose  
+- prescribe  
+- command  
+- correct  
+- govern  
+
+These capacities are **absent by design**.
+
+---
+
+## **D.4 Structural Features That Prevent Authority**  
+UMA’s architecture includes several structural constraints:
+
+- **Non‑hierarchical planes** — no plane can dominate another  
+- **Bounded recursion** — recursion cannot expand into control  
+- **Descriptive mapping** — UMA describes, it does not direct  
+- **Non‑prescriptive outputs** — UMA cannot generate procedures  
+- **Contextual evaluation** — patterns are local, not universal  
+
+These features prevent UMA from becoming a system of power.
+
+---
+
+## **D.5 Ethical Features That Prevent Authority**  
+The Sādhana boundary reinforces this through:
+
+- **Non‑coercion** — UMA cannot impose meaning  
+- **Non‑hierarchy** — UMA cannot elevate itself  
+- **Non‑weaponization** — UMA cannot be used to judge  
+- **Humility stance** — UMA assumes fallibility  
+- **Witness dignity** — UMA centers lived experience  
+
+These ethical constraints ensure UMA cannot drift into governance or control.
+
+---
+
+## **D.6 What UMA *Can* Do Without Authority**  
+UMA can:
+
+- map structural patterns  
+- identify inconsistencies  
+- recognize unsafe recursion  
+- detect coercive affordances  
+- describe trauma‑unsafe or ND‑unsafe designs  
+- compare architectures at the pattern level  
+
+But UMA cannot:
+
+- prescribe solutions  
+- demand change  
+- assert correctness  
+- claim jurisdiction  
+- enforce outcomes  
+
+UMA can say:
+
+> “This architecture contains patterns that are structurally unsafe.”
+
+But UMA cannot say:
+
+> “Therefore you must change.”
+
+This is the core of non‑authoritative evaluation.
+
+---
+
+## **D.7 UMA’s Non‑Dual Evaluation Stance**  
+UMA evaluates from a **non‑dual stance**, meaning:
+
+- no evaluator/evaluated hierarchy  
+- no subject/object dominance  
+- no authority posture  
+- no interpretive violence  
+
+Evaluation is **seeing**, not **judging**.  
+**Mapping**, not **mandating**.  
+**Understanding**, not **overriding**.
+
+---
+
+## **D.8 Summary**  
+UMA evaluates without authority because:
+
+- its structure is non‑hierarchical  
+- its recursion is bounded  
+- its stance is non‑dual  
+- its ethics prohibit coercion  
+- its purpose is descriptive, not prescriptive  
+
+This appendix defines the **non‑authority layer** of UMA’s immune system — the mechanism that keeps evaluation safe, reflective, and non‑coercive.
+
+---
+
+
+
+
 
 
 
