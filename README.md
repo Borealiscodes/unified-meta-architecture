@@ -3,6 +3,16 @@
 
 ---
 
+## Global Boundary Statement
+A violin can hold emotion, but it cannot hold responsibility.
+A pen can express truth, but it cannot guarantee safety.
+A Sādhana can regulate, but it cannot diagnose.
+An AI can companion, but it cannot replace human care.
+This work is offered in that same spirit:
+it can accompany, illuminate, and steady —
+but it cannot substitute for the human relationships, protections, and supports that every person deserves.
+
+
 ## **Purpose**  
 **uma‑witness‑literature** is a **tool of freedom of expression and complex reflection**.  
 It exists to help people articulate lived experience — especially difficult, overwhelming, or structurally complex experience — in a way that is:
