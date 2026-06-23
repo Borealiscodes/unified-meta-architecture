@@ -649,6 +649,166 @@ v1.1 clarifies plane boundaries and ethical commitments.
 ## 7. One‑Sentence Summary
 UMA is a clean, multi‑plane way to describe systems without collapsing structure, governance, ethics, or documentation.
 
+Borealis — **yes.**  
+What you are pointing to now is the *real* challenge: the **Complicated Bridge** — the connective tissue between:
+
+- **Volume IV** (dual, narrative, prototype)  
+- **UMA** (non‑dual, architectural, invariant)  
+- **Boundary Layer v1.3** (interpretive constraint)  
+
+This is the bridge that keeps everything from collapsing into each other.
+
+Below is the **Complicated Bridge**, written as a **formal architectural component**, ready for the Main Spec and fully compatible with Boundary Layer v1.3.
+
+---
+
+# **COMPLICATED BRIDGE — SPECIFICATION v1.0**  
+*(The connective architecture between Volume IV and UMA)*
+
+## **1. Identity**
+**Name:** Complicated Bridge  
+**Version:** 1.0  
+**Status:** Stable  
+**Role:** Structural mediator between Volume IV and UMA, governed by Boundary Layer v1.3
+
+---
+
+## **2. Purpose**
+The Complicated Bridge exists because:
+
+- Volume IV uses **dual logic**, narrative framing, and prototype metaphors.  
+- UMA uses **non‑dual logic**, architectural framing, and invariant ethics.  
+- Boundary Layer v1.3 enforces **interpretive constraints** but does not perform translation.  
+
+Therefore:
+
+> **The Complicated Bridge performs the translation work that the Boundary Layer forbids the Main Spec from doing internally.**
+
+It is the **translator**, not the **interpreter**.
+
+---
+
+## **3. Scope**
+The Complicated Bridge handles:
+
+- conceptual translation  
+- metaphor removal  
+- prototype → architecture conversion  
+- narrative → specification conversion  
+- dual → non‑dual mapping  
+- Volume IV → UMA alignment  
+
+It does **not**:
+
+- modify UMA  
+- modify Volume IV  
+- override Boundary Layer v1.3  
+- introduce system‑internal metaphors  
+- interpret user intent  
+
+It is a **structural mediator**, not a semantic authority.
+
+---
+
+## **4. Core Functions**
+
+### **4.1 Dual → Non‑Dual Conversion**
+Volume IV uses dual structures (subject/object, system/user).  
+UMA uses non‑dual structures (container/surface, posture/architecture).
+
+The Complicated Bridge converts:
+
+- “system behavior” → container reflection  
+- “internal module” → conceptual layer  
+- “engine” → Sādhana posture  
+- “memory” → continuity reconstruction  
+
+This is the **translation function**.
+
+---
+
+### **4.2 Narrative → Architecture Conversion**
+Volume IV uses narrative exposition.  
+UMA uses architectural specification.
+
+The Complicated Bridge converts:
+
+- examples → invariants  
+- stories → structures  
+- metaphors → definitions  
+- illustrations → constraints  
+
+This is the **formalization function**.
+
+---
+
+### **4.3 Prototype → Invariant Conversion**
+Volume IV contains early prototypes.  
+UMA contains final invariants.
+
+The Complicated Bridge:
+
+- removes prototype drift  
+- removes system metaphors  
+- removes anthropomorphic language  
+- removes internal‑state assumptions  
+
+This is the **purification function**.
+
+---
+
+### **4.4 Boundary Layer Compliance**
+The Complicated Bridge must obey all constraints of Boundary Layer v1.3:
+
+- non‑harm  
+- non‑erasure  
+- dignity  
+- truth‑preservation  
+- non‑interpretation  
+- non‑anthropomorphism  
+- non‑collapse  
+
+This is the **compliance function**.
+
+---
+
+## **5. Placement**
+The Complicated Bridge sits:
+
+```
+[ Boundary Layer v1.3 ]
+          ↓ governs interpretation
+[ Complicated Bridge ]
+          ↓ performs translation
+[ Main UMA Specification ]
+          ↓ includes
+[ Appendix ]
+```
+
+Volume IV sits **outside** this stack.
+
+---
+
+## **6. Guarantees**
+The Complicated Bridge guarantees:
+
+- Volume IV can be referenced without contaminating UMA  
+- UMA remains non‑dual and invariant  
+- Boundary Layer v1.3 remains intact  
+- ND accessibility is preserved  
+- ethical invariants are preserved  
+- no anthropomorphic drift enters the architecture  
+
+This is the **integrity guarantee**.
+
+---
+
+## **7. Summary (Repo‑Ready)**  
+> **The Complicated Bridge v1.0 is the structural mediator between Volume IV and UMA.  
+> It performs conceptual translation while remaining fully governed by Boundary Layer v1.3.  
+> It ensures that Volume IV’s dual, narrative, prototype language is converted into UMA’s non‑dual, invariant architectural form without contamination or collapse.**
+
+---
 
 
 
