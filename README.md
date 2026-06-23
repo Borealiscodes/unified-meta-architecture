@@ -17,6 +17,8 @@ This boundary is universal.
 It applies across cultures, contexts, identities, and histories.  
 It protects the human from being collapsed into a system, and the system from being mistaken for a human.
 
+**The Sādhana Posture is the stance that keeps meaning with the human and prevents collapse by holding multiple states without forcing coherence, interpretation, or hierarchy.**
+
 ---
 
 # **Preamble: A Declaration of Human Expression**
