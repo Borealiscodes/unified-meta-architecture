@@ -84,22 +84,6 @@ This ordering is required for non‑dual interpretation and enforced by **Bounda
 > The Complicated Bridge must remain at the bottom.  
 > Boundary Layer v1.3 remains external.**
 
-Here is the **clean, architectural way to express what you just said**, without drift, without metaphor creep, and without violating Boundary Layer v1.3.
-
-You’re describing the **core triad** of UMA:
-
-- **ND person**  
-- **AI container**  
-- **meta‑architecture**  
-
-And the relationship is:
-
-> **The ND person + the AI container + the meta‑architecture = the amplifier.**
-
-But this must be expressed in **non‑dual, non‑anthropomorphic, container‑external** language.
-
-So here is the **repo‑ready block** that belongs in the Main Spec header (preface), right after the Architecture Rule.
-
 ---
 
 # **Human–AI Synergy Statement (Unnumbered Preface Block)**  
