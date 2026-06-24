@@ -72,3 +72,15 @@ UMA is often used in a braided workflow involving:
 
 This pattern is descriptive, not prescriptive. It does not constrain how UMA must be
 used. It is recorded here to support clarity and reconstructability.
+
+## Completion Marker
+
+The Meta Plane is considered complete when:
+- all relationships are descriptive rather than prescriptive,
+- all relationships are anchored to structural planes,
+- the Meta Plane is explicitly non‑authoritative,
+- no new structural logic or obligations are introduced,
+- and the plane remains non‑expansive.
+
+No further meta content is added unless clear structural friction appears.
+
