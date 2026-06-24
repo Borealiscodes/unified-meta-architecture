@@ -1,3 +1,18 @@
+---
+layout: page
+title: "Structural Plane Overview"
+---
+
+# Structural Plane Overview
+*The plane that defines what exists, independent of interpretation.*
+
+---
+
+**Purpose:** Establish the foundational structures, entities, and components that UMA recognizes before governance, ethics, or documentation are applied.
+
+---
+
+
 # Structural Plane Overview
 The Structural Plane describes the “shape” of a system — what exists, how it is arranged, and how components relate.
 
