@@ -1,165 +1,154 @@
 ---
 layout: page
-title: "INT-INTEGRITY — Integrative Integrity Module"
+title: "Integrative Plane — Overview"
 ---
 
-# INT-INTEGRITY — Integrative Integrity Module
-*Module defining UMA’s architecture-level integrity rules, version stability constraints, and anti-drift safeguards.*
+# Integrative Plane — Overview
+*The plane that maintains coherence, alignment, and non‑collapse across UMA’s active architecture.*
 
 ---
 
 # 1. Purpose
-The INT-INTEGRITY module defines how UMA preserves its architectural integrity over time, across versions, and under modification.
+The Integrative Plane defines how UMA maintains coherence across its active planes and modules.  
+It ensures that the architecture remains:
 
-This module:
-- defines integrity categories  
-- defines integrity checks  
-- defines integrity constraints  
-- defines version and change rules  
-- ensures the architecture does not drift from its core specification  
+- structurally aligned  
+- cross‑plane consistent  
+- non‑interpretive  
+- non‑collapsing  
+- stable across versions  
 
-It does not define personal integrity, moral character, or narrative continuity.
+The Integrative Plane does not define behavior, narrative, or semantic meaning.  
+It evaluates structure, not intent.
 
 ---
 
 # 2. Scope
-INT-INTEGRITY applies to:
-- all planes  
-- all modules  
-- all structural objects  
-- all validation and alignment modules  
+The Integrative Plane applies to:
+
+- all active planes (Documentation, Structural, Dynamic, Integrative)  
+- all cross‑plane relationships  
+- all structural schemas  
+- all validation and integrity modules  
 - all versioned specifications  
-- all change processes  
+- all architectural change processes  
 
-If something can change, be versioned, or be updated, it is subject to integrity evaluation.
-
----
-
-# 3. Integrity Categories
-
-## 3.1 Version Integrity
-Ensures versioned specifications remain stable and historically accurate.
-
-Checks include:
-- historical versions are not modified retroactively  
-- version numbers are incremented correctly  
-- changes are documented in a changelog or equivalent record  
-- sealed documents remain sealed  
-
-Version integrity preserves the historical record of the architecture.
+If something must be checked for coherence, alignment, or stability, it is handled here.
 
 ---
 
-## 3.2 Structural Integrity
-Ensures structural changes do not break the architecture.
+# 3. Integrative Domains
 
-Checks include:
-- new entities, relations, constraints, and schemas remain coherent  
-- identifiers remain stable and non-colliding  
-- structural modules remain non-interpretive  
-- structural changes respect existing invariants  
+## 3.1 Validation Domain
+Defined in **INT‑VALIDATION**.  
+Ensures:
 
-Structural integrity preserves the soundness of the foundation.
+- structural coherence  
+- cross‑plane separation  
+- deterministic, non‑interpretive validation  
+- schema and relation correctness  
 
----
-
-## 3.3 Cross-Plane Integrity
-Ensures cross-plane relationships remain stable under change.
-
-Checks include:
-- cross-plane mappings remain accurate after updates  
-- plane boundaries are not eroded over time  
-- new modules do not collapse domains  
-- integrative modules remain non-overriding  
-
-Cross-plane integrity preserves domain separation over time.
+Validation checks *what is structurally true*, not *what anything means*.
 
 ---
 
-## 3.4 Boundary Integrity
-Ensures the architecture remains aligned with the Boundary Layer across versions.
+## 3.2 Integrity Domain
+Defined in **INT‑INTEGRITY**.  
+Ensures:
 
-Checks include:
-- boundary separation is preserved  
-- container-external status is respected where required  
-- no change overrides the Boundary Layer  
-- no version introduces boundary collapse  
-
-Boundary integrity protects the outermost frame of UMA.
-
----
-
-# 4. Integrity Representation Rules
-
-## 4.1 Canonical Format
-All integrity checks must include:
-- a **name**  
-- a **type**  
-- a **description** (non-interpretive)  
-- a **target** (version, module, plane, or boundary)  
-- an **integrity rule**  
-- an **integrity identifier**  
-- optional **attributes** (structural only)  
-
-Descriptions must not infer meaning beyond structure.
-
----
-
-## 4.2 Integrity Rule Requirements
-Integrity rules must:
-- be deterministic  
-- be non-interpretive  
-- avoid semantic inference  
-- avoid narrative inference  
-- avoid behavioral inference  
-- avoid cross-domain collapse  
-
-Integrity rules check temporal and structural preservation, not meaning.
-
----
-
-## 4.3 Identifier Rules
-Integrity identifiers must be:
-- stable  
-- unique  
-- non-semantic  
-- non-interpretive  
-- persistent across versions  
-
-Identifiers must not encode meaning, intent, or narrative.
-
----
-
-# 5. Integrity-Level Constraints
-
-Integrity procedures must not:
-- infer user intent  
-- encode narrative meaning  
-- collapse domains  
-- introduce behavior  
-- introduce developmental sequencing  
-
-Integrity defines *how the architecture remains intact over time*, not *what anything means*.
-
----
-
-# 6. Cross-Module Relationships
-
-INT-INTEGRITY interacts with:
-- **INT-VALIDATION** — uses validation results to detect integrity risks  
-- **INT-ALIGNMENT** — uses alignment results to detect drift  
-- **INT-COHERENCE** — ensures coherence is preserved across versions  
-- **UMA-Spec version files** — ensures sealed specifications remain sealed  
-
-Integrity is the temporal and version-level safeguard of UMA.
-
----
-
-# 7. Operational Signature
-INT-INTEGRITY ensures:
 - version stability  
-- structural non-drift  
-- boundary-aligned change  
-- deterministic, non-interpretive preservation of the architecture  
+- non‑drift across updates  
+- boundary‑aligned evolution  
+- preservation of sealed specifications  
 
-It is the module that defines *how UMA remains itself over time*.
+Integrity checks *how the architecture remains itself over time*.
+
+---
+
+## 3.3 Alignment Domain
+Defined in **INT‑ALIGNMENT**.  
+Ensures:
+
+- planes remain within their domains  
+- cross‑plane maps remain accurate  
+- no module overrides another  
+- no domain collapses into another  
+
+Alignment checks *how the architecture fits together*.
+
+---
+
+# 4. Cross‑Plane Relationships
+The Integrative Plane interacts with:
+
+- **Structural Plane** — validates and aligns structural definitions  
+- **Documentation Plane** — ensures documentation reflects structure  
+- **Dynamic Plane** — ensures transitions remain non‑interpretive  
+- **Meta Plane** — receives descriptive context but does not inherit rules  
+
+The Integrative Plane does not override any plane.  
+It checks coherence between them.
+
+---
+
+# 5. Integrative Rules
+
+## 5.1 Non‑Collapse
+The Integrative Plane ensures that:
+
+- Documentation does not govern  
+- Structure does not interpret  
+- Dynamics do not assign meaning  
+- Integration does not override  
+
+Each plane remains within its domain.
+
+---
+
+## 5.2 Consistency Enforcement
+The Integrative Plane ensures:
+
+- consistent terminology  
+- consistent structural references  
+- consistent cross‑plane mappings  
+- consistent versioning practices  
+
+Consistency is structural, not semantic.
+
+---
+
+## 5.3 Deterministic Evaluation
+All integrative checks must be:
+
+- deterministic  
+- non‑interpretive  
+- non‑behavioral  
+- non‑narrative  
+
+Integrative logic evaluates structure, not intent.
+
+---
+
+# 6. Operational Signature
+The Integrative Plane ensures:
+
+- cross‑plane coherence  
+- structural alignment  
+- version stability  
+- boundary‑aligned evolution  
+- deterministic, non‑interpretive evaluation  
+
+It is the plane that keeps UMA whole without defining meaning, behavior, or governance.
+
+---
+
+# 7. Completion Marker
+The Integrative Plane is considered complete when:
+
+- all integrative logic is non‑interpretive  
+- all checks are deterministic  
+- no plane overrides another  
+- no domain collapses  
+- alignment, validation, and integrity remain structurally defined  
+
+No further integrative content is added unless structural friction appears.
