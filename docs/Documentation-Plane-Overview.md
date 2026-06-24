@@ -1,3 +1,18 @@
+---
+layout: page
+title: "Documentation Plane Overview"
+---
+
+# Documentation Plane Overview
+*The plane that records, describes, and attaches without interpreting.*
+
+---
+
+**Purpose:** Define the role, boundaries, and structural commitments of UMA’s Documentation Plane.
+
+---
+
+
 # Documentation Plane Overview
 The Documentation Plane records how components, structures, and relationships are described without mixing planes.
 
