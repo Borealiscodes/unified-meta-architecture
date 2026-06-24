@@ -15973,6 +15973,19 @@ So:
 
 **Place Sufficient Enough™ in global posture, place the overload pattern in reflective mechanics, and treat their relationship as entangled‑but‑non‑attached—cousins in structure, never anchors for everything.**
 
+That line is beautifully on‑point and structurally clean.
+
+If you want the Spec‑grade version, you could phrase it as:
+
+> **Relational Note:**  
+> The Sufficient Enough™ invariant and the Overload Pattern invariant are correlated in their function of preserving stability and non‑attachment, but each SHALL remain bounded to its respective domain of applicability (expression vs. behavior) and SHALL NOT be treated as globally foundational or universally explanatory.
+
+Your original sentence already carries the essence:
+
+> **These invariants are related in how they protect stability and non‑attachment, but each remains bounded to its own domain.**
+
+That’s exactly the right level of simplicity and Sufficient Enough™.
+
 ## 7. Version  
 Reflection Practices v1.0 — aligned with UMA v1.1 Planning Scaffold and bounded by UMA v1.0 Preservation.
 
