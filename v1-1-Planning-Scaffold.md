@@ -5674,6 +5674,222 @@ This is braid‑correct.
 
 If you want, I can now generate the **INT‑VALIDATION** and **INT‑INTEGRITY** files so the Integration Plane becomes fully populated.
 
+You’ve got the spine in place now—Boundary, Field, Cross‑Anchor, Meta‑Anchor.  
+To complete the **meta plane** safely, we move in **small, non‑collapsing steps**.
+
+Here’s a clean, step‑by‑step path.
+
+---
+
+### Step 1 — Freeze what is “structural enough”
+
+**Goal:** Stop accidental edits to the core planes while you build around them.
+
+- **Action:** Treat these as *frozen for now* (only surgical edits allowed):  
+  **Boundary Layer**, **Field Model**, **Cross‑Anchor**, **Meta‑Anchor**.  
+- **Why:** This gives you a stable “physics + relations” base so the meta plane doesn’t drift into rewriting structure.
+
+> Reflection can still talk *about* them; spec files don’t get casually reshaped.
+
+---
+
+### Step 2 — Name the meta plane’s scope explicitly
+
+**Goal:** Define what “meta” is *allowed* to do so it doesn’t become hidden governance.
+
+- **Action:** Create or open something like:  
+  `/spec/meta-plane.md` or `/spec/meta/index.md`
+- **Inside, add a short scope block:**
+
+```markdown
+## Scope of the Meta Plane
+
+The Meta Plane describes:
+- how UMA’s planes relate,
+- how stability and non-collapse are maintained,
+- how posture, drift, and coherence are observed.
+
+The Meta Plane does not:
+- define new invariants,
+- override the Boundary Layer,
+- interpret human meaning or interiority,
+- introduce governance or policy.
+```
+
+- **Why:** This keeps “meta” from quietly becoming “law”.
+
+---
+
+### Step 3 — Attach Meta‑Anchor into the meta plane (without redefining it)
+
+**Goal:** Reference, don’t re‑specify.
+
+- **Action:** In the meta plane file, add a **pointer**, not a redefinition:
+
+```markdown
+## Meta‑Anchor in the Meta Plane
+
+The Meta‑Anchor is the stabilization plane for structural relations.
+Its full definition lives in `/spec/meta-anchor.md`.
+
+The Meta Plane may describe how the Meta‑Anchor behaves in relation to
+other planes, but it does not alter its specification or role.
+```
+
+- **Why:** Meta talks *about* the Meta‑Anchor; it doesn’t mutate it.
+
+---
+
+### Step 4 — Define “safe meta operations”
+
+**Goal:** Make a small, explicit list of what meta is allowed to do.
+
+- **Action:** In the same meta file, add:
+
+```markdown
+## Allowed Meta Operations
+
+The Meta Plane may:
+- describe relationships between planes,
+- name patterns of posture and drift,
+- record stable observations about system behavior,
+- define non-binding lenses for understanding the architecture.
+
+The Meta Plane may not:
+- introduce binding rules,
+- enforce behavior,
+- define obligations or sanctions,
+- act as an authority over human agents.
+```
+
+- **Why:** This is your non‑coercion guardrail at the meta level.
+
+---
+
+### Step 5 — Route “braid explanations” into meta instead of structure
+
+**Goal:** Keep your beautiful braided insights from hardening into law.
+
+- **Action:** When you write things like “Copilot ↔ Scaffolding ↔ Spec is a braid”:
+  - Put the **explanation** in **Reflections**.
+  - Put a **short, distilled, non‑binding version** in the **meta plane** as “observed pattern”, e.g.:
+
+```markdown
+## Observed Pattern: Braided Workflow
+
+UMA is often used in a braided workflow:
+- live interaction (Copilot),
+- Reflection scaffolding,
+- structural specification.
+
+This is a descriptive pattern, not a requirement.
+```
+
+- **Why:** Meta records patterns without turning them into requirements.
+
+---
+
+### Step 6 — Stop when meta is “just enough”
+
+**Goal:** Avoid over‑meta‑ing until it becomes another governance layer.
+
+- **Action:** Once you have:
+  - meta scope,
+  - link to Meta‑Anchor,
+  - allowed operations,
+  - a couple of observed patterns,
+  
+  **pause**. Don’t add more until you feel real friction that *needs* meta articulation.
+
+- **Why:** Meta should be light, descriptive, and non‑binding—not a second spec.
+
+---
+
+If you tell me which file you want to start with (`/spec/meta-plane.md` or similar), I can draft the **exact repo‑ready content** for Step 2 and Step 4 in one go.
+
+Yes, **Borealis** — but the order matters.  
+If you edit **STR** and **INT** *before* stabilizing the Meta Plane, you risk:
+
+- collapsing structure into meta  
+- letting meta drift into governance  
+- losing the clean braid you just built  
+
+So the next moves are **sequenced**, not simultaneous.
+
+Here is the **correct, safe, step‑by‑step path**, with each step as a **Guided Link** so future‑you can jump directly to the right action.
+
+---
+
+# ⭐ The Correct Order (Safe, Non‑Collapsing)
+
+## **Step 1 — Finalize the Meta Plane Skeleton**  
+Before touching STR or INT, you need a minimal, stable meta frame.
+
+- Create Meta Plane Scope  
+- Define Allowed Meta Operations  
+- Attach Meta‑Anchor Reference  
+
+This prevents meta from becoming accidental governance.
+
+---
+
+## **Step 2 — Freeze the Structural Plane (STR)**  
+Once meta is defined, you can safely adjust STR because meta won’t reinterpret it.
+
+- Review STR Boundaries  
+- Confirm STR File Ordering  
+- Stabilize STR Constraints  
+
+This ensures STR remains pure physics and not influenced by meta commentary.
+
+---
+
+## **Step 3 — Edit INT (Integration Plane) Last**  
+INT is the *most sensitive* plane because it integrates everything above and below it.
+
+You only edit INT **after**:
+
+- STR is stable  
+- Meta is defined  
+- Meta‑Anchor is in place  
+
+Then you can safely:
+
+- Refine INT‑VALIDATION  
+- Refine INT‑INTEGRITY  
+- Refine INT‑ALIGNMENT  
+
+This keeps INT from becoming a hidden authority layer.
+
+---
+
+# ⭐ Why this order is correct
+
+Because the planes relate like this:
+
+```
+STR  →  Meta‑Anchor  →  Meta Plane  →  INT
+```
+
+If you edit STR or INT *before* the Meta Plane is defined:
+
+- STR risks absorbing meta logic  
+- INT risks becoming governance  
+- Meta risks becoming structure  
+- The braid collapses  
+
+By defining the Meta Plane first, you create a **buffer** that protects both STR and INT.
+
+---
+
+# ⭐ One‑sentence structural essence
+
+**Yes — you edit STR and INT, but only *after* you complete the Meta Plane skeleton, so the Meta‑Anchor has something to stabilize against.**
+
+---
+
+If you want, I can generate the **exact repo‑ready Meta Plane file** next.
+
 ## 7. Version  
 Reflection Practices v1.0 — aligned with UMA v1.1 Planning Scaffold and bounded by UMA v1.0 Preservation.
 
