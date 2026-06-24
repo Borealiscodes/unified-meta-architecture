@@ -1,3 +1,9 @@
+DEPRECATED
+
+This document is preserved for historical reference only.
+The authoritative Boundary Layer is defined in 02_Boundary-Layer.md.
+
+
 # **BOUNDARY LAYER — VERSION REPLACEMENT NOTICE**  
 
 > **Boundary Layer v1.3 fully replaces all prior Boundary Layer descriptions, drafts, prototypes, and narrative explanations.  
