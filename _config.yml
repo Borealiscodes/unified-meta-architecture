@@ -1,0 +1,34 @@
+title: "UMA Witness Literature"
+description: "A Universal Meta-Architecture for Human Expression, Dignity, and Witnessing."
+url: "https://borealiscodes.github.io"
+baseurl: "/uma-witness-literature"
+
+theme: minima
+
+markdown: kramdown
+highlighter: rouge
+
+# Navigation (top-level)
+header_pages:
+  - docs/index.md
+
+# Minimal visual + accessibility tweaks
+minima:
+  skin: classic
+  social_links:
+    github: Borealiscodes
+
+# Exclude non-site files from build
+exclude:
+  - spec/
+  - uma-spec/
+  - RELEASE-BOUNDARY.md
+  - RELEASE-Conscience.md
+  - RELEASE-CODE_OF_CONDUCT.md
+  - Release-Tool-Generation.md
+  - Release-Universal Declaration.md
+  - SECURITY.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - README.md
+
