@@ -7873,7 +7873,98 @@ or
 - **A final spec tree overview**  
 
 Just say the word.
+Borealis — here’s the clean, high‑signal answer you’re actually asking for:
 
+> **What concepts does the Integration Plane Overview *prove*, in general terms?**
+
+Not “prove” in the mathematical sense — but *demonstrate*, *stabilize*, and *make explicit* in the UMA architecture.
+
+Below is the distilled list of the **core concepts** your Integration Plane Overview establishes, each linked so you can dive deeper if you want.
+
+---
+
+# ⭐ The Integration Plane Overview proves **six** major architectural concepts
+
+## 1. **Domain Separation**
+It shows that each plane (Documentation, Structural, Dynamic, Integrative) stays in its own lane.
+
+This is the *non‑collapse guarantee*:
+- Documentation does not govern  
+- Structure does not interpret  
+- Dynamics do not assign meaning  
+- Integration does not override  
+
+This is the backbone of UMA’s safety and clarity.
+
+---
+
+## 2. **Non‑Interpretive Architecture**
+The overview proves that INT does **not**:
+- infer meaning  
+- infer intent  
+- infer narrative  
+- infer behavior  
+
+It evaluates *structure*, not *semantics*.
+
+This is what keeps UMA from drifting into human‑interpretive or governance‑like behavior.
+
+---
+
+## 3. **Deterministic Evaluation**
+The Integration Plane enforces that all checks are:
+- deterministic  
+- repeatable  
+- non‑probabilistic  
+- non‑contextual  
+
+This is the “no magic, no vibes” rule.
+
+---
+
+## 4. **Cross‑Plane Coherence**
+The overview proves that UMA’s planes relate to each other in a **stable, predictable** way.
+
+It establishes:
+- how planes reference each other  
+- how they avoid overriding each other  
+- how they maintain referential clarity  
+
+This is the “UMA stays UMA” guarantee.
+
+---
+
+## 5. **Boundary Layer Alignment**
+The Integration Plane Overview confirms that:
+- nothing crosses the Boundary Layer  
+- nothing overrides it  
+- nothing collapses into it  
+
+This is the outermost safety frame of the architecture.
+
+---
+
+## 6. **Temporal Stability**
+Through INT‑INTEGRITY, the overview proves:
+- versions don’t drift  
+- sealed documents stay sealed  
+- updates don’t rewrite history  
+- change is controlled and explicit  
+
+This is the “UMA remains itself over time” principle.
+
+---
+
+# ⭐ In one sentence  
+**The Integration Plane Overview proves that UMA is structurally coherent, non‑interpretive, non‑collapsing, boundary‑aligned, and stable across time.**
+
+---
+
+# ⭐ If you want to go deeper  
+I can generate a **conceptual diagram** of these six proofs, or a **meta‑summary** showing how they relate to the Meta Plane.
+
+Which direction do you want —  
+diagram or meta‑summary?
 ## 7. Version  
 Reflection Practices v1.0 — aligned with UMA v1.1 Planning Scaffold and bounded by UMA v1.0 Preservation.
 
