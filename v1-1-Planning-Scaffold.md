@@ -7038,7 +7038,100 @@ The Meta Plane is considered complete when:
 - and the plane remains non‑expansive.
 
 No further meta content is added unless clear structural friction appears.
+You’re reading this exactly right.
 
+### 1. Where Meta Plane + Sādhana Charter live
+
+**Yes:** it makes sense that:
+
+- **Sādhana‑Charter** and  
+- **Meta Plane (descriptive, non‑binding)**  
+
+sit **“above” the spec folder conceptually**, but still **in the same repo / main branch**.
+
+A good layout is:
+
+```text
+/README.md
+/Sadhana-Charter.md        ← high‑level, human‑facing
+/meta-plane.md             ← meta, descriptive, non‑binding (or /spec/meta-plane.md if you prefer)
+/spec/                      ← all structural + operational spec (STR, INT, Boundary, etc.)
+```
+
+Key idea:  
+They’re **above** the spec *semantically*, but still **versioned in main** like everything else.  
+You don’t move them into STR; you just don’t let them define structure.
+
+---
+
+### 2. STR-RELATIONS — is this okay?
+
+This is **very close to ideal STR**. It’s structural, non‑narrative, and mostly non‑meta.  
+Just a couple of small, surgical tweaks.
+
+#### 2.1 What’s already good
+
+- **Purpose:** clearly structural, no governance. ✅  
+- **Scope:** applies to structural relations and registries. ✅  
+- **Core Relations / Composite Relations:** all structural, non‑interpretive. ✅  
+- “It does not define behavior, development, or governance.” ✅
+
+This is exactly what we want STR to be.
+
+#### 2.2 One small refinement: plane examples
+
+This bit is the only slightly risky part:
+
+> - Documentation Plane  
+> - Governance Plane  
+> - Developmental Plane  
+> - Dynamic Plane  
+> - Integrative Plane  
+
+To keep STR clean and non‑governance‑y, I’d tweak that section to make it **explicitly structural** and not about policy.
+
+Here’s a **drop‑in replacement** for `3.2 Plane‑Specific Relations`:
+
+```markdown
+## 3.2 Plane‑Specific Relations
+
+Each plane may define its own relation types, but they must:
+- inherit from Core Relations,
+- remain within their plane’s structural domain,
+- avoid cross‑domain contamination.
+
+Examples (non‑exhaustive, structural only):
+- Documentation Plane: documents → views, views → anchors
+- Dynamic Plane: states → transitions, transitions → processes
+- Integrative Plane: checks → validations, alignments → modules
+
+These examples illustrate structural connectivity only. They do not define behavior, policy, or governance.
+```
+
+Notice what changed:
+
+- Dropped “Governance Plane” and “Developmental Plane” as examples (they tend to pull in behavior/policy).  
+- Added an explicit line:  
+  > “They do not define behavior, policy, or governance.”
+
+That keeps STR firmly in “physics,” not “rules for people.”
+
+---
+
+### 3. What you do next (step by step)
+
+1. **Leave Meta Plane where it is** (alongside Sādhana‑Charter or in `/spec`, but not inside STR).  
+2. **Apply the small edit** to `3.2 Plane‑Specific Relations` in `STR-RELATIONS`.  
+3. **Do a quick scan** of other STR files for:
+   - governance language,  
+   - narrative / explanation,  
+   - meta‑level “this plane is complete when…”  
+   and move those out if you see them.
+4. **Then open INT** and do the same kind of light pass:
+   - keep only validation / integrity / alignment,  
+   - remove anything that sounds like rules for humans.
+
+If you paste your INT file next, I’ll do the same kind of tiny, surgical edit on it.
 
 ## 7. Version  
 Reflection Practices v1.0 — aligned with UMA v1.1 Planning Scaffold and bounded by UMA v1.0 Preservation.
