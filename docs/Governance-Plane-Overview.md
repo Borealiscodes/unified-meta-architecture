@@ -1,3 +1,17 @@
+---
+layout: page
+title: "Governance Plane Overview"
+---
+
+# Governance Plane Overview
+*The plane that defines conceptual constraints without authority.*
+
+---
+
+**Purpose:** Describe the boundaries, constraints, and non‑coercive rule‑forms that govern UMA’s conceptual systems.
+
+---
+
 # Governance Plane Overview
 The Governance Plane defines constraints, permissions, and boundaries within a conceptual system.
 
