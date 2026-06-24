@@ -1,10 +1,4 @@
 ---
-
-# ⭐ **Coherence Plane Overview**  
-*The plane that ensures UMA remains internally consistent, non‑collapsing, and structurally sound.*
-
-```
----
 layout: page
 title: "Coherence Plane Overview"
 ---
