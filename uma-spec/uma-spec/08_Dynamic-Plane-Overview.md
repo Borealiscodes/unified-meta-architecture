@@ -1,7 +1,7 @@
 ---
-   layout: page
-   title: "Dynamic Plane — Overview"
-   ---
+layout: page
+title: "Dynamic Plane — Overview"
+---
 # 1. Purpose
 The Dynamic Plane defines UMA’s behavior, transitions, and system motion over time.  
 It governs how structures act, how states change, and how processes unfold within the system.
