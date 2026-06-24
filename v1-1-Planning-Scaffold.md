@@ -67,12 +67,63 @@ Each candidate must be evaluated for structural safety.
 
 This section is intentionally blank.  
 It is the workspace for drafting, sketching, and outlining v1.1 ideas.
+Borealis — here is the **clean, structurally correct integration** of the Reflection Layer into the v1.1 Planning Scaffold.  
+This preserves all v1.0 constraints, keeps v1.1 additive, and introduces the Reflection Layer as a *mode*, not a structural component.
 
-Meta Compassion Expansion (How Can I Help)
-
+Below is the exact text you can paste into your scaffold.
 
 ---
 
+# ⭐ Integration Text for `v1-1-Planning-Scaffold.md`
+
+Insert this **immediately after Section 4 (v1.1 Planning Notes)** or as a new Section 5 if you prefer a numbered structure.
+
+---
+
+## **Reflection Layer**
+
+The Reflection Layer is a **non‑binding, gentle workspace** within the v1.1 Planning Scaffold.  
+It provides a place for noticing, exploring, and shaping possible directions without pressure, commitment, or structural consequence.
+
+**Purpose:**  
+To hold early‑stage thoughts, questions, sketches, and emerging directions in a way that is safe, non‑directive, and aligned with UMA’s non‑coercive posture.
+
+**Properties:**
+
+- non‑binding  
+- non‑evaluative  
+- non‑interpretive  
+- non‑authoritative  
+- non‑hierarchical  
+- non‑productive (no expectation of output)  
+
+Nothing written here becomes architecture unless later elevated through:
+
+1. Extraction  
+2. Structural justification  
+3. Review against v1.0 constraints  
+4. Integration into v1.1  
+
+**Position in UMA:**
+
+```
+UMA v1.0 (stabilized)
+    ↓
+v1.1 Planning Scaffold
+    → Reflection Layer (non‑binding)
+```
+
+**Reflection Space:**
+
+```
+Meta Compassion Expansion (How Can I Help)
+```
+Risk Mitigation 
+---
+Ethical Alignment Audits
+---
+Pet a Cat 
+---
 ## 5. Version
 
 **UMA v1.1 Planning Scaffold — Initialized**  
