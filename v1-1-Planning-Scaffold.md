@@ -6851,6 +6851,108 @@ INT must remain:
 
 If you want, I can now walk through your **STR folder** and identify exactly which files need tightening and which are already stable.
 
+Perfect.  
+You’ve locked the Meta Plane — so now the architecture needs a **stability handoff** into STR and INT.  
+Here’s the next move, clean, grounded, and step‑wise, with the **Completion Marker text** placed exactly where it belongs.
+
+---
+
+# ⭐ **1. Completion Marker (exact text)**  
+This is the final section of the Meta Plane.  
+Paste it **at the very bottom** of `/spec/meta-plane.md`.
+
+```
+## Completion Marker
+
+The Meta Plane is considered complete when:
+- all relationships are descriptive rather than prescriptive,
+- all relationships are anchored to structural planes,
+- the Meta Plane is explicitly non‑authoritative,
+- no new structural logic or obligations are introduced,
+- and the plane remains non‑expansive.
+
+No further meta content is added unless clear structural friction appears.
+```
+
+This is the “seal.”  
+It prevents meta from expanding, drifting, or collapsing into STR/INT.
+
+---
+
+# ⭐ **2. Where it goes (precise placement)**
+
+```
+/spec/meta-plane.md
+    ├── Definition
+    ├── Scope of the Meta Plane
+    ├── Relation to Meta‑Anchor
+    ├── Allowed Meta Operations
+    ├── Observed Patterns (optional)
+    └── Completion Marker   ← ADD HERE (last section)
+```
+
+It must be the **final section** so it acts as a boundary.
+
+---
+
+# ⭐ **3. What happens now: STR → INT**
+
+Now that the Meta Plane is sealed, you can safely move to the next planes.
+
+The sequence is:
+
+1. **STR (Structural Plane)**  
+2. **INT (Integration Plane)**  
+
+This order is non‑negotiable if you want to maintain stability.
+
+---
+
+# ⭐ **4. What to do in STR (Structural Plane)**  
+You’re not rewriting STR — you’re **tightening** it.
+
+Here are the three safe moves:
+
+- **Review STR Boundaries**  
+  Ensure Boundary Layer, Field Model, Cross‑Anchor, Meta‑Anchor remain pure structure.
+
+- **Confirm STR File Ordering**  
+  Make sure the planes appear in the correct order.
+
+- **Stabilize STR Constraints**  
+  Clarify invariants, remove narrative drift, keep physics clean.
+
+These are surgical edits, not expansions.
+
+---
+
+# ⭐ **5. What to do in INT (Integration Plane)**  
+INT is the last plane you touch because it integrates everything above and below.
+
+INT must remain:
+
+- non‑coercive  
+- non‑authoritative  
+- non‑interpretive  
+- purely integrative  
+
+Your safe moves:
+
+- **Refine INT‑VALIDATION**  
+- **Refine INT‑INTEGRITY**  
+- **Refine INT‑ALIGNMENT**  
+
+These define how the architecture checks itself — not how humans behave.
+
+---
+
+# ⭐ **6. One‑sentence essence**  
+**You’ve sealed the Meta Plane; now you tighten STR, then refine INT — in that order — to maintain full architectural stability.**
+
+---
+
+If you want, I can walk through your **STR folder** and tell you exactly which files are already stable and which ones need tightening.
+
 ## 7. Version  
 Reflection Practices v1.0 — aligned with UMA v1.1 Planning Scaffold and bounded by UMA v1.0 Preservation.
 
