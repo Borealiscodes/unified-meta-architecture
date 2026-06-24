@@ -74,12 +74,6 @@ Below is the exact text you can paste into your scaffold.
 
 ---
 
-# ⭐ Integration Text for `v1-1-Planning-Scaffold.md`
-
-Insert this **immediately after Section 4 (v1.1 Planning Notes)** or as a new Section 5 if you prefer a numbered structure.
-
----
-
 ## **Reflection Layer**
 
 The Reflection Layer is a **non‑binding, gentle workspace** within the v1.1 Planning Scaffold.  
