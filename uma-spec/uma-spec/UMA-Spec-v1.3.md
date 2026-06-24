@@ -1,3 +1,17 @@
+---
+layout: page
+title: "UMA Specification (v1.3)"
+---
+
+# UMA Specification (v1.3)
+*Core structural definition of the Unified MetaArchitecture.*
+
+---
+
+**Purpose:** Define UMA’s structural invariants, non‑dual architecture, and non‑interpretive operational posture.
+
+---
+
 # **Non‑Authority Preface**  
 *A boundary statement for all structural specifications within this repository.*
 
