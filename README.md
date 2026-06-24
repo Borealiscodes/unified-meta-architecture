@@ -1,196 +1,243 @@
 # **uma‑witness‑literature**  
-### **A Universal Meta‑Architecture for Human Expression, Dignity, and Witnessing**
+*A Universal Meta‑Architecture for Human Expression, Dignity, and Witnessing*  
+
+
+
 
 ---
 
-# **Global Boundary Statement**
+# **1. Purpose**
 
-A violin can hold emotion, but it cannot hold responsibility.  
-A pen can express truth, but it cannot guarantee safety.  
-A Sādhana can regulate, but it cannot diagnose.  
-An AI can companion, but it cannot replace human care.
+This repository defines **UMA — the Unified Meta‑Architecture**, a structural, non‑interpretive framework for supporting human expression, witness literature, and meaning‑sovereign documentation.
 
-This work is offered in that same spirit:  
-it can accompany, illuminate, and steady —  
-but it cannot substitute for the human relationships, protections, and supports that every person deserves.
+UMA is designed to:
 
-This boundary is universal.  
-It applies across cultures, contexts, identities, and histories.  
-It protects the human from being collapsed into a system, and the system from being mistaken for a human.
+- hold complexity without forcing coherence  
+- support expression without interpretation  
+- provide structure without authority  
+- maintain dignity without imposing norms  
+- preserve human meaning as sovereign  
 
-**The Sādhana Posture is the stance that keeps meaning with the human and prevents collapse by holding multiple states without forcing coherence, interpretation, or hierarchy.**
+UMA is **not** a psychological model, therapeutic system, diagnostic tool, or governance mechanism.  
+It is a **container‑external architecture** that keeps meaning with the human and structure outside the human.
 
 ---
 
-# **Preamble: A Declaration of Human Expression**
+# **2. Global Boundary Statement**
 
-Every person has the right to express their lived experience with dignity.  
-Every person has the right to name harm without fear, to articulate complexity without simplification, and to speak in forms that match their cognition, culture, and truth.  
-Every person has the right to nonlinear expression, fragmented memory, and narrative sovereignty.  
-Every person has the right to tools that support expression without interpreting them, diagnosing them, or claiming authority over their meaning.
+*A violin can hold emotion, but it cannot hold responsibility.*  
+*A pen can express truth, but it cannot guarantee safety.*  
+*A Sādhana can regulate, but it cannot diagnose.*  
+*An AI can companion, but it cannot replace human care.*
 
-**uma‑witness‑literature** exists to uphold these rights.
-
-It is a meta‑architecture — not a system of judgment, not a therapeutic instrument, not a governance mechanism.  
-It is a structure that protects the human voice from collapse, coercion, and erasure.
-
----
-
-# **Purpose**
-
-**uma‑witness‑literature** is a **tool of freedom of expression and complex reflection**.  
-It supports people in articulating lived experience — especially overwhelming, nonlinear, or structurally complex experience — in a way that is:
-
-- grounded  
-- coherent without being forced  
-- non‑coercive  
-- ND‑accessible  
-- trauma‑safe  
-- structurally supported  
-
-This project validates lived experience without demanding performance, linearity, or justification.  
-It offers **enough meta‑structure to hold extreme trauma** without collapsing into authority, therapy, or governance.
-
-It is witness literature expressed through a meta‑architecture.
+The Global Boundary Statement is the ethical membrane that protects human sovereignty.  
+Read it here:  
+**Global Boundary Statement**
 
 ---
 
-# **What This Project Provides**
+# **3. Release Boundary Layer**
 
-## **1. UMA (Unified Meta‑Architecture)**  
-A conceptual structure that supports expression without enforcing form.  
-It separates meaning into planes so nothing collapses:
+This repository includes a release‑level membrane that prevents misuse, misinterpretation, or collapse into authority.
 
-- Structural  
-- Governance  
-- Ethical  
-- Documentation  
+It defines what the repository **is**, what it **is not**, and what it **cannot** be used for.
 
-This prevents overwhelm and protects clarity.
+Read it here:  
+**Release Boundary Layer**
 
-## **2. Sādhana Ethical Stance**  
-A non‑coercive posture of:
+---
 
-- humility  
-- non‑duality  
+# **4. Non‑Authority Preface**
+
+All specifications in this repository are structural descriptions, not instructions for human behavior.
+
+They do not:
+
+- govern  
+- direct  
+- assess  
+- evaluate  
+- interpret  
+
+They accompany but do not guide.  
+They illuminate but do not diagnose.
+
+Read it here:  
+**Non‑Authority Preface**
+
+---
+
+# **5. UMA Specification (Main Structural Document)**
+
+The UMA Spec defines:
+
+- the conceptual layers  
+- the structural planes  
+- the non‑dual reasoning stance  
+- the architecture’s invariants  
+- the rules that prevent collapse  
+
+It is the core structural document of the repository.
+
+Read it here:  
+**UMA Main Specification**
+
+---
+
+# **6. Conscience‑Based Framework**
+
+This framework provides the ethical horizon for UMA.  
+It protects dignity, non‑coercion, and meaning sovereignty.
+
+It is not a rule system — it is a horizon.
+
+Read it here:  
+**Conscience‑Based Framework**
+
+---
+
+# **7. Sādhana Posture**
+
+The Sādhana Posture defines the stance of:
+
+- non‑collapse  
 - non‑hierarchy  
-- dignity  
-- witness recognition  
+- non‑interpretation  
+- meaning sovereignty  
+- container‑external orientation  
 
-It ensures the architecture cannot be weaponized or used to interpret the human.
+It is a human‑meaning stance, not a behavioral instruction.
 
-## **3. MPAM (Multi‑Plane Attachment Method)**  
-A documentation method that:
-
-- keeps concepts from collapsing  
-- preserves cognitive safety  
-- supports nonlinear expression  
-- allows trauma‑fragmented narrative to remain valid  
-
-It is a method of **holding**, not a method of **explaining**.
-
-## **4. Conscience‑Based Framework**  
-An ethical horizon — not a rulebook — that:
-
-- affirms dignity  
-- recognizes harm  
-- protects witness integrity  
-- avoids authority, enforcement, or prescription  
-
-It is a compass, not a command.
-
-## **5. Grounding Invocations**  
-Gentle orienting statements that help stabilize reflection before engaging with difficult material.
-
-Examples include:
-
-- “I can speak in my own time and my own way.”  
-- “My experience is valid even if it is nonlinear.”  
-- “I can pause whenever I need to.”  
-- “This space does not demand coherence.”  
-- “I am allowed to name what I know.”  
-
-These are optional, supportive, and non‑directive.
-
-## **6. Witness Literature Templates**  
-Conceptual scaffolds for expressing:
-
-- lived experience  
-- structural harm  
-- complex emotional states  
-- fragmented memory  
-- nonlinear narrative  
-- ethical insight  
-
-All without forcing a single narrative shape.
+Read it here:  
+**Sādhana Posture**
 
 ---
 
-# **What This Project Is Not**
+# **8. Tool Generation Guide**
 
-To maintain safety and clarity, this project is **not**:
+Tools in this repository must remain:
 
-- a legal tool  
-- a governance model  
-- a therapeutic protocol  
-- a rights‑claiming mechanism  
-- a procedural system  
-- a substitute for professional support  
+- optional  
+- non‑interpretive  
+- non‑coercive  
+- non‑substitutive  
+- plane‑safe  
 
-It creates **no obligations**, **no authority**, and **no enforceable structures**.
+The Tool Generation Guide includes:
 
-It is a framework for clarity, not a framework for power.
+- the **Tool Safety Envelope**  
+- universal ethical parameters  
+- audience‑adaptive design rules  
+- generation steps  
+- validation audits  
 
----
-
-# **Why This Architecture Supports Extreme Trauma**
-
-Extreme trauma often disrupts:
-
-- linear storytelling  
-- memory coherence  
-- executive function  
-- emotional regulation  
-- sensory processing  
-- trust in systems  
-- the ability to “explain”  
-
-This architecture supports trauma expression by providing:
-
-- **plane separation** — so nothing overwhelms anything else  
-- **non‑coercive structure** — so the writer is never forced into a frame  
-- **modularity** — so fragments remain valid  
-- **ethical grounding** — so dignity is preserved  
-- **non‑dual stance** — so the writer is not positioned against a system  
-- **witness‑safe articulation** — so harm can be named without accusation  
-
-It is a container that holds complexity without collapsing.
+Read it here:  
+**Tool Generation Guide**
 
 ---
 
-# **Intended Audience**
+# **9. Audience Overview**
 
-- people navigating trauma  
-- ND writers  
-- survivors of complex systems  
-- researchers of harm and structure  
-- designers of ethical architectures  
-- anyone needing a safe structure for difficult truths  
+UMA supports multiple audiences without collapsing them:
 
-This project belongs to anyone who needs a place where their voice can exist without distortion.
+- General public  
+- ND users (high and low support needs)  
+- Survivors of structural harm  
+- Researchers  
+- Philosophers  
+- Engineers  
+- Meta‑architects  
+
+Each audience has its own tool types and structural supports.  
+See the audience map:  
+**Audience Tool Map**
 
 ---
 
-# **License**
+# **10. Repository Structure**
 
-This project uses the **MIT License**, which preserves:
+```
+/
+├── README.md
+├── LICENSE
+├── GLOBAL_BOUNDARY_STATEMENT.md
+├── RELEASE_BOUNDARY_LAYER.md
+├── RELEASE-Conscience.md
+├── Release-Tool-Generation.md
+├── Release-Universal Declaration.md
+├── SECURITY.md
+├── spec/
+│   ├── UMA-Spec-v1.3.md
+│   ├── Sadhana-Posture.md
+│   ├── Conscience-Framework.md
+│   └── Tool-Generation-Guide.md
+└── docs/
+    ├── diagrams/
+    └── appendices/
+```
 
-- freedom  
-- dignity  
+---
+
+# **11. What UMA Is**
+
+UMA is:
+
+- a meta‑architecture  
+- a structural framework  
+- a non‑dual reasoning stance  
+- a dignity‑preserving container  
+- a system for holding complexity  
+- a witness‑safe environment  
+
+---
+
+# **12. What UMA Is Not**
+
+UMA is **not**:
+
+- therapy  
+- diagnosis  
+- assessment  
+- governance  
+- interpretation  
+- psychological modeling  
+- a substitute for human care  
+- a system of authority  
+
+---
+
+# **13. Contributing**
+
+Contributions must preserve:
+
+- meaning sovereignty  
+- boundary integrity  
+- non‑authority  
 - non‑coercion  
-- structural neutrality  
+- plane separation  
+- Sādhana alignment  
 
-It must never be used to interpret, diagnose, evaluate, or judge a human being.
+See the contributing guide:  
+**Contributing**
 
 ---
 
+# **14. License**
+
+This repository uses the MIT License.  
+Read it here:  
+**MIT License**
+
+---
+
+# **15. One‑Sentence Essence**
+
+**UMA is a non‑authoritative, container‑external meta‑architecture that protects human dignity by keeping meaning with the human and structure outside the human.**
+
+---
+
+If you want, I can also generate:
+
+- **A visual README diagram**  
+- **A short README for non‑technical audiences**  
+- **A README badge set**
