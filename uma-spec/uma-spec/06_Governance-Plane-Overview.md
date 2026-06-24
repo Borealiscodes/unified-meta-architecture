@@ -1,7 +1,7 @@
 ---
    layout: page
    title: "Governance Plane — Overview"
-   ---
+---
 
    # Governance Plane — Overview
    *The plane defining UMA’s constraints, invariants, and non‑negotiable system rules.*
