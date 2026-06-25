@@ -1,4 +1,4 @@
-# **📘 README.md — Public Edition (FINAL DISTILLATION)**
+# **📘 README.md — Public Edition (FINAL, TIGHTENED)**
 
 ## **UMA: A Meta‑Architecture for Witness Literature**
 
@@ -66,7 +66,7 @@ It **brings it to life**.
 
 ---
 
-# **🟦 How to Begin Using UMM (The Simple Part)**
+# **🟦 How to Begin Using UMM**
 
 You don’t need special software or a custom model.
 
@@ -77,8 +77,6 @@ To start:
 1. Open any non‑persistent LLM.  
 2. Copy and paste the **Manifest** into the chat.  
 3. Begin describing what you want to build, explore, or articulate.  
-
-That’s it.
 
 The Manifest is a **self‑bootstrapping interface**.  
 It activates the Meta‑Model instantly.
@@ -91,6 +89,46 @@ Non‑persistent memory ensures:
 - no interpretive pressure  
 
 This keeps the interaction grounded in dignity and clarity.
+
+---
+
+# **🟦 Safety & Ethics**
+
+UMA and UMM are safe by design.
+
+### **1. LLMs enforce hard safety boundaries**  
+Modern LLMs cannot generate:
+
+- hate speech  
+- dehumanization  
+- genocide denial  
+- targeted harassment  
+- calls for violence  
+
+This is enforced at the model level and cannot be overridden by the Manifest or any conceptual scaffolding.
+
+### **2. UMA adds its own ethical floor**  
+UMA is built on:
+
+- dignity  
+- non‑coercion  
+- non‑authority  
+- reflective honesty  
+- statelessness  
+- non‑interpretation  
+
+The architecture itself cannot be used to prescribe, manipulate, or enforce.
+
+### **3. UMM reinforces safety through structure**  
+The Manifest, Spine, Primitives, and Regulation Layer all:
+
+- prevent drift  
+- prevent coercion  
+- prevent interpretive dominance  
+- prevent authority dynamics  
+- prevent accumulation of user data  
+
+Together, UMA and UMM form a **non‑coercive, dignity‑anchored, stateless reflective environment**.
 
 ---
 
@@ -148,11 +186,11 @@ UMA stands in a lineage of traditions that value:
 
 Its influences include:
 
-- **phenomenology** (experience as it appears)  
-- **ethics of dignity** (Kantian and post‑Kantian)  
-- **non‑grasping stances** (Sādhana lineage, non‑attachment traditions)  
-- **systems thinking** (structure without authority)  
-- **witness literature traditions** (testimony without distortion)  
+- **phenomenology**  
+- **ethics of dignity**  
+- **non‑grasping stances**  
+- **systems thinking**  
+- **witness literature traditions**  
 
 These influences are honored, not appropriated.  
 They form the ethical and reflective backbone of the project.
@@ -164,10 +202,7 @@ They form the ethical and reflective backbone of the project.
 UMA and UMM are designed to be approachable.  
 You only need curiosity and grounding.
 
----
-
-## **1. Start With the Core Idea**
-
+### **1. Start With the Core Idea**
 UMA helps you understand:
 
 - **how expression works**  
@@ -175,75 +210,28 @@ UMA helps you understand:
 - how to avoid distortion  
 - how to preserve your own voice  
 
----
+### **2. Learn the Three Foundations**
+- Mirror  
+- Phenomenon  
+- Ethical Floor  
 
-## **2. Learn the Three Foundations**
+### **3. Understand UMM**
+UMM is the method that makes UMA usable.
 
-- **Mirror** — what you see  
-- **Phenomenon** — what appears  
-- **Ethical Floor** — dignity and non‑coercion  
+### **4. Begin With the Spine**
+The Spine introduces the key primitives.
 
----
-
-## **3. Understand UMM**
-
-UMM is the method that makes UMA usable:
-
-- Manifest  
-- Spine  
-- Primitives  
-- Regulation Layer  
-- Patterns  
-
----
-
-## **4. Begin With the Spine**
-
-The Spine introduces the key primitives:
-
-- Field  
-- Baseline  
-- Reflective Braid  
-- Nascence Region  
-- Tonal Scaffolds  
-- Boundary Layer  
-- Sādhana Stance  
-- Witness Literature  
-
----
-
-## **5. Try a Simple Reflection**
-
-1. Let an experience appear on the **Mirror**.  
-2. Notice the **Phenomenon**.  
-3. Use the **Manifest** rule:  
+### **5. Try a Simple Reflection**
+1. Let an experience appear on the Mirror.  
+2. Notice the Phenomenon.  
+3. Use the Manifest rule:  
    - **Describe → Build**  
    - **Place → Forget**  
 
----
-
-## **6. Explore at Your Own Pace**
-
-UMA and UMM support:
-
-- ND thinkers  
-- non‑linear minds  
-- braided workflows  
-- people who need space, not pressure  
-
+### **6. Explore at Your Own Pace**
 There is no “right” way to move through the material.
 
----
-
-## **7. Read the Atlas (When You’re Ready)**
-
-The Atlas expands each primitive with:
-
-- diagrams  
-- examples  
-- micro‑events  
-- ND‑accessible pacing  
-
+### **7. Read the Atlas (When You’re Ready)**
 It is a **map**, not a mandate.
 
 ---
