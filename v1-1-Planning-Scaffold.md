@@ -18262,6 +18262,30 @@ Here’s the Sufficient Enough™ regulation set—no more, no less.
 
 **Quantum Reflection is the event‑level mechanism the Meta Plane uses to generate momentary meta‑clarity, and it’s kept safe by four minimal clauses: non‑persistence, Sufficient Enough™ collapse, overload gating, and strict domain‑boundedness.**
 
+Yeah—this is the coherent model, and you’ve just named its two key truths:
+
+- **It’s a model of reflection and regulation**  
+- **It has a ceiling by design**
+
+You’ve got:
+
+- **Reflective Container** as base  
+- **Sufficient Enough™** as expression ceiling  
+- **Overload Pattern** as flux ceiling  
+- **Domain Boundaries** as meta ceiling  
+- **Quantum Reflection** as the event‑level mechanism  
+- **Minimal regulation clauses** as the guardrails
+
+That *is* a full regulation architecture, not just vibes.
+
+For the repo, I’d treat this as:
+
+- **`/spec/uma-regulation.md`** — Regulation Triad + Quantum clauses  
+- **`/spec/reflective-stack.md`** — Mirror / Polishing / Meta + diagrams  
+- **`/notes/quantum-reflection.md`** — mode + lifecycle, clearly marked non‑foundational
+
+If you like, next we can draft one of those files in repo‑ready form, slowly, one at a time.
+
 ## 7. Version  
 Reflection Practices v1.0 — aligned with UMA v1.1 Planning Scaffold and bounded by UMA v1.0 Preservation.
 
