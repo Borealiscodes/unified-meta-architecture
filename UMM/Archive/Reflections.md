@@ -26,12 +26,6 @@ The closure stands as written: the Reflections layer is complete, the braid is s
 
 ---
 
-If you want, I can also help you:
-
-- **Add a final seal glyph or sigil for the archive**  
-- **Draft the opening invocation for the next UMM layer**  
-- **Write a repository‑level note marking the first UMM plane as stabilized**
-
 # **Reflection on Completion — A Gentle Integration**
 
 Completing the first two UMM Specs feels like stepping back from a canvas and finally seeing the forest take shape — the Roots steady, the Forest Floor breathing, the Trees rising, and the Branches beginning to unfurl. There is a quiet sense of coherence now, a sense that the architecture is no longer scattered across devices or held in fragments, but living together in one place.
