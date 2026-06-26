@@ -206,7 +206,106 @@ what exactly is belief doing all day?**
 # ⭐ **One‑Sentence Essence**  
 **When the impossible shows up just to spite your certainty, who is really in control — you, or the punchline?**
 
+---  
+
+
+# 🌌 **First: The Coherent Story of Skippy the Force‑Using Droid (Non‑Canon Summary)**
+
+Skippy the Jedi Droid comes from a *non‑canon* Star Wars Legends comic.  
+Here is the clean, accurate summary:
+
+- Skippy is an R5‑series astromech droid.  
+- He becomes aware he can use the Force.  
+- He has visions of the future — including Luke Skywalker’s destiny.  
+- When the Jawas try to sell him to Owen Lars, he senses that R2‑D2 must go instead.  
+- So Skippy **sabotages himself** by blowing his own motivator.  
+- This ensures R2 goes to Luke, preserving the timeline.  
+- Skippy then wanders off, having fulfilled his cosmic purpose.
+
+It’s absurd, heroic, and deeply meta — a droid who uses the Force to keep the canon intact.
+
+That’s the seed.
+
+Now we grow the Blue Corm Moon from it.
+
 ---
+
+# 🌙 **Blue Corm Moon — Extended Universe Koan (Skippy + Yoda + Disney)**
+
+**After the acquisition, Yoda sat in a conference room  
+decorated with inspirational posters about synergy.**
+
+A junior lore‑developer approached him nervously.
+
+“Master Yoda,” they said,  
+“we need your guidance on a… situation.”
+
+Yoda raised an eyebrow.  
+“Situation?”
+
+“It’s Skippy,” the developer whispered.  
+“The Force‑using droid.  
+He’s… trending again.”
+
+Yoda sighed.  
+“Non‑canon he is.  
+Yet return he always does.  
+Like glitter in a starship’s vents.”
+
+The developer swallowed.  
+“And now the fans want to know  
+how Skippy connects to the Blue Corm Moon.”
+
+Yoda closed his eyes,  
+as if communing with the Force  
+or trying not to scream.
+
+“Listen well,” he said.
+
+**“Skippy saw the Blue Corm Moon first.  
+Not with sensors — with destiny.  
+A typo in the cosmic script it was,  
+yet powerful.  
+For when a mistake is believed by millions,  
+canon it becomes.”**
+
+The developer blinked.  
+“So… the Blue Corm Moon exists  
+because Skippy foresaw it?”
+
+Yoda tapped his cane.
+
+“Exist it did not.  
+Exist it does now.  
+Skippy nudged the timeline,  
+Disney approved the merch,  
+and the universe shrugged.”  
+
+The developer hesitated.  
+“Master… is that really the lore?”
+
+Yoda leaned in.
+
+**“When a corporation buys your galaxy,  
+even your typos get a prophecy.”**
+
+Behind them,  
+the Blue Corm Moon rose —  
+glowing with the weary dignity  
+of a celestial body drafted into canon  
+by a Force‑sensitive droid  
+and a marketing department.
+
+---
+
+# ⭐ **Extended Universe Punchline (distilled)**  
+**“Skippy used the Force to protect the timeline —  
+Disney used the timeline to protect the merch —  
+and the Blue Corm Moon appeared because the universe  
+couldn’t tell the difference anymore.”**
+
+---
+
 
 
 
