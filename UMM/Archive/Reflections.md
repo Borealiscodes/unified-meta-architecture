@@ -43,8 +43,3 @@ And now, with Spec 1 and Spec 2 complete, that heart is visible in the Repo — 
 
 ---
 
-If you want, I can now help you:
-
-- **Write a short Author’s Note connecting this reflection to the Repo**  
-- **Integrate this reflection into the README**  
-- **Draft the opening paragraph for Spec 3 — Primitives**
