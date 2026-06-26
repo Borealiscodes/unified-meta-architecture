@@ -209,4 +209,3 @@ UMM is a living ecology: Roots anchor it, the Forest Floor connects it, Trees st
 
 ---
 
-If you want, I can now prepare the **full Branches Spec (Spec 2)** in the same repo‑ready style.
